@@ -1,6 +1,6 @@
 # Lido DAO
 
-The Lido DAO is a Decentralised Autonomous Organisation that manages the liquid staking protocols by deciding on key parameters (e.g., setting fees, assigning node operators and oracles, etc.) through the voting power of governance token (`LDO`) holders. Also, the DAO will accumulate service fees and spend them on research, development, liquidity mining incentives and protocol upgrades.
+The Lido DAO is a Decentralized Autonomous Organization that manages the liquid staking protocols by deciding on key parameters (e.g., setting fees, assigning node operators and oracles, etc.) through the voting power of governance token (`LDO`) holders. Also, the DAO will accumulate service fees and spend them on research, development, liquidity mining incentives and protocol upgrades.
 
 ## Why DAO?
 
